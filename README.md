@@ -21,4 +21,5 @@ Implement the solution to the bounded buffer problem from the section titled Sem
 2. Modify the solution by including the necessary P and V operations in the code.
 If general P and V operations are not provided by the tread library then first implement P and V using binary semaphores (mutex lock or spin locks.)
 
-**Video Link:** https://youtu.be/DtYR8x4H3DE
+## Video Link
+https://youtu.be/DtYR8x4H3DE
