@@ -13,7 +13,7 @@ Implement the solution to the bounded buffer problem from the section titled Sem
 - If any slot contains a number greater than 1, then a race condition has been detected: The consumer was unable to keep up and thus the producer has added a 1 to a slot that has not yet been reset.
 - Both producer and consumer sleep periodically for random time intervals to emulate unpredictable execution speeds.
 
-
+![App Icon](bounded-buffer-solution/images/promt_pic.PNG)
 
 ## Assignment
 
